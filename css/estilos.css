@@ -1,0 +1,82 @@
+body{
+    border:0px;
+    margin: 0px;
+    padding:0px;
+    
+}
+.main-container{
+    width: 100%;
+    height: 9vh;
+    background-color: #F2C9D8;
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-family:'Impact';
+    margin-left: 1%;
+    color: #0460D9;
+}
+.main-image{
+    width: 8%;
+    height: 108%;
+    object-fit: cover;
+    margin-left: 2%;
+}
+.portada-image{
+    width: 100%;
+    height: 20%;
+    object-fit: cover;
+    position:relative;
+}
+.contenido-container{
+    width: 100%;
+    height: 120%;
+    background-color: #C2F2ED;
+    position:absolute;
+}
+p{
+    font-family:'Harry P';
+    margin-left: 15%;
+    color: #871C; 
+    font-size: 780%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+.s{
+    font-family:'Impact';
+    margin-left: 30%;
+    color: #F27405; 
+    font-size:710%;
+}
+.elemento-container{
+    width: 90%;
+    height: 60%;
+    background-color: #04BFAD;
+    display:flexbox;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+.icono-image{
+    width: 12em;
+    height: 12em;
+    margin-left: 3.5%;
+    display: flexbox;
+    margin-top: 2%;
+}
+.bottom-container{
+    width: 100%;
+    height: 10vh;
+    background-color: #0460D9;
+    display: flex;
+    align-items: center;
+}
+.b{
+    font-family:'Courier New';
+    color: white; 
+    font-size: 280%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
